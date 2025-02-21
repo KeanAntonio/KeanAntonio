@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <h1 align="center"> 
-<img src="https://github.com/RK1905101/RK1905101/blob/master/Name.svg" width="600px"></h1>
+<img src="https://github.com/KeanAntonio/KeanAntonio/blob/master/Name.svg" width="600px"></h1>
 <h1 align="center">
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="55px">
 </h1>
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
   ![ViewCount](https://views.whatilearened.today/views/github/KeanAntonio/views.svg)   
   
   <div> 
-   <img alt="KeanAntonio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RK1905101&theme=gotham&hide_border=true&area=true" width="100%"  />
+   <img alt="KeanAntonio's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=KeanAntonio&theme=gotham&hide_border=true&area=true" width="100%"  />
 
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KeanAntonio&theme=algolia&hide_border=true" width="49%"> 
  
