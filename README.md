@@ -81,7 +81,7 @@ Here are some ideas to get you started:
   <img align='right' src="https://media.giphy.com/media/Al9XitEIwGgLU9yMfS/giphy.gif" width="270"> 
  
  
-  <img align = "center" alt="KeanAntonio's most used languages on GitHub" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kean&langs_count=8&layout=compact&bg_color=000000&title_color=E8E500&text_color=F8F2CB&icon_color=9FD410&hide_border=true&hide=jupyter%20notebook,html" width="40%" />
+  
  
   
   </div>
@@ -96,7 +96,19 @@ Here are some ideas to get you started:
  
   ### Connect Me..(●'◡'●)
   
-
+   <a href="https://www.instagram.com/yourusername" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/1200px-Instagram_logo_2022.svg.png" width="50" height="50" alt="Instagram Logo" />
+  </a>
+  
+  <a href="https://www.facebook.com/yourusername" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" width="50" height="50" alt="Facebook Logo" />
+  </a>
+  
+  <a href="https://github.com/KeanAntonio" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" width="50" height="50" alt="GitHub Logo" />
+  </a>
+  
+</div>
 
 
 
